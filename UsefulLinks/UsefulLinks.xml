@@ -1,0 +1,4 @@
+<pnp:UsefulLinks xmlns:pnp="http://schemas.dev.office.com/PnP/2016/07/GalleryUsefulLinks">
+    <pnp:link title="News 1" url="http://www.piasys.it" abstract="This is a link" />
+    <pnp:link title="News 2" url="http://www.piasys.it" abstract="This is another link" />
+</pnp:UsefulLinks>
